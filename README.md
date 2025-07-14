@@ -1,2 +1,2 @@
-# hr-employee-attrition-dashboard
-Power BI dashboard to analyze employee attrition trends using DAX
+HR Employee Attrition Dashboard
+I created an interactive Power BI dashboard to analyze employee attrition trends for HR leadership. The report includes DAX-based KPIs such as Total Employees, Attrition Rate, and Average Monthly Income. It also breaks down employee distribution by department and allows dynamic filtering by job role, department, and attrition status. This project highlights my ability to design data-driven dashboards, write DAX measures, and create actionable insights for HR decision-making.
